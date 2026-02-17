@@ -56,7 +56,7 @@ Key Metrics Displayed
 
 --> Top 5 Customers by Profit
 
-✅ Customer Count
+--> Customer Count
 
 **Tools & Techniques Used**
 
