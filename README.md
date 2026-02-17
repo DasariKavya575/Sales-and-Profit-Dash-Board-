@@ -94,7 +94,7 @@ Key Metrics Displayed
 
 3. Highlighted top contributing customers
 
-4.Observed seasonal sales patterns
+4. Observed seasonal sales patterns
 
 5. Compared yearly profit growth
 
